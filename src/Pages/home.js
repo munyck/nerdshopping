@@ -14,7 +14,6 @@ const useStyles = makeStyles((theme) => ({
       textAlign: 'center'
     },
   }));
-
 const HomePage = () => {
     const products = useSelector(state => state.products)
     const classes = useStyles();
