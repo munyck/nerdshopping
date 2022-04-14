@@ -1,4 +1,4 @@
-# Diretório do desafio <i>Criando um APP simples de cadastro de séries em .NET</i> </h2>
+# Diretório do desafio <i>Criando o front-end com ReactJS</i> </h2>
 ### Plataforma: <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong>
 
 ## Como executar o código:
